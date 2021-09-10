@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Basic Currency Rates App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It is a basic app that supplies conversion rates information. 
+Rates are obtained from the https://github.com/fawazahmed0/currency-api service using the latest rates for the selected currency rounded up to 1 digit after the decimal point. Localstorage is used to hold the data if the user accesses the app again from the same browser during the same day.
+
+You can see the app [here](https://milenahristovaangelkova.github.io/currency-rates/).
 
 ## Available Scripts
 
@@ -11,7 +16,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 ### `npm test`

@@ -2,7 +2,7 @@ import LongestArray from "./LongestArray";
 
 const ConversionsData = (props) => {
     let outputConversions = {};
-    for (let [key, value] of Object.entries(props.currencyRates)) {
+    for (let [key, value] of Object.entries(props.currencyRates)) {  
         if (key.includes(props.selectedOption.toUpperCase())) {
             if (!outputConversions.hasOwnProperty(props.selectedOption.toUpperCase())) {
                 outputConversions[key] = value;

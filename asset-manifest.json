@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/currency-rates/static/css/main.e0b352db.chunk.css",
-    "main.js": "/currency-rates/static/js/main.826dab8e.chunk.js",
-    "main.js.map": "/currency-rates/static/js/main.826dab8e.chunk.js.map",
+    "main.js": "/currency-rates/static/js/main.f14bf4c8.chunk.js",
+    "main.js.map": "/currency-rates/static/js/main.f14bf4c8.chunk.js.map",
     "runtime-main.js": "/currency-rates/static/js/runtime-main.b1cd41a9.js",
     "runtime-main.js.map": "/currency-rates/static/js/runtime-main.b1cd41a9.js.map",
     "static/js/2.6e64310a.chunk.js": "/currency-rates/static/js/2.6e64310a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b1cd41a9.js",
     "static/js/2.6e64310a.chunk.js",
     "static/css/main.e0b352db.chunk.css",
-    "static/js/main.826dab8e.chunk.js"
+    "static/js/main.f14bf4c8.chunk.js"
   ]
 }
